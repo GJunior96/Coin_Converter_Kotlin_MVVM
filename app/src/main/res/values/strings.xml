@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Coin Converter</string>
+    <string-array name="coins">
+        <item>CAD - Canadian Dollar</item>
+        <item>EUR - Euro</item>
+        <item>HKD - Hong Kong, Dollar</item>
+        <item>ISK - Icelandic Krona</item>
+        <item>PHP - Philippine Peso</item>
+        <item>DKK - Danish Krone</item>
+        <item>HUF - Hungarian Forint</item>
+        <item>CZK - Czech Koruna</item>
+        <item>AUD - Australian Dollar</item>
+        <item>RON - Romanian New Leu</item>
+        <item>SEK - Sweden, Krona</item>
+        <item>IDR - Indonesian Rupiah</item>
+        <item>INR - Indian Rupee</item>
+        <item>BRL - Brazilian Real</item>
+        <item>RUB - Russian Ruble</item>
+        <item>HRK - Croatian Kuna</item>
+        <item>JPY - Japanese Yen</item>
+        <item>THB - Thai Bahat</item>
+        <item>CHF - Switzerland, Swiss Franc</item>
+        <item>SGD - Singapore Dollar</item>
+        <item>PLN - Polish Zloty</item>
+        <item>BGN - Bulgarian Lev</item>
+        <item>CNY - Chinese Yuan Renminbi</item>
+        <item>NOK - Norwegian Krone</item>
+        <item>NZD - New Zealand Dollar</item>
+        <item>ZAR - South African Rand</item>
+        <item>USD - US Dollar</item>
+        <item>MXN - Mexican Peso</item>
+        <item>ILS - Israeli Shekel</item>
+        <item>GBP - United Kingdom, British Pound</item>
+        <item>KRW - South Korean Won</item>
+        <item>MYR - Malaysian Ringgit</item>
+
+    </string-array>
+</resources>
